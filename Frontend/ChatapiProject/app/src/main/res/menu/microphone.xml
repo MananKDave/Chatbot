@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--Search view widget as item in menu-->
+    <item
+        android:id="@+id/microphone_btn"
+        android:title="microphone"
+        android:icon="@drawable/ic_mic_black_off"
+        app:showAsAction="always" />
+</menu>

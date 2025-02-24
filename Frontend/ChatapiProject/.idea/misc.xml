@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/drawable/custom_input.xml" value="0.1935" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/drawable/ic_baseline_camera_24.xml" value="0.293" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.1835" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.1835" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/drawable/ic_mic_black_24dp.xml" value="0.293" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/drawable/ic_mic_black_off.xml" value="0.293" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/font/roboto.xml" value="0.215625" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/layout/activity_camera.xml" value="0.25" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/layout/activity_cans.xml" value="0.3854166666666667" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/layout/activity_ccamera.xml" value="0.25" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/layout/activity_history.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/layout/activity_microphone.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/layout/activity_signup.xml" value="0.34662576687116564" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/layout/activity_sub_history.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/layout/listview_history.xml" value="0.33" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/add.xml" value="0.2972222222222222" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/camera.xml" value="0.33" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/history.xml" value="0.2972222222222222" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/home.xml" value="0.2972222222222222" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/image.xml" value="0.2972222222222222" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/logout.xml" value="0.25" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/microphone.xml" value="0.2972222222222222" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/pdf.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/refresh.xml" value="0.2972222222222222" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/menu/speak.xml" value="0.3625" />
+        <entry key="..\:/Users/Manan Dave/StudioProjects/ChatapiProject/app/src/main/res/xml/file_paths.xml" value="0.5279605263157895" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
